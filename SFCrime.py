@@ -55,8 +55,8 @@ def breakdownIncidentReport(incidentReport,neighborhood):
   for
 """
 
-api_token = 'XGJN0dU9NC7fq7O2aenMy54xE'
-secret_token = 'Lqcy38bEXR0kXklIYKgdL3OMrmIkhgaaMMa6'
+api_token = ##
+secret_token = ##
 endpoint = 'https://data.sfgov.org/resource/nwbb-fxkq.json'
 
 client = Socrata("data.sfgov.org",
